@@ -12,7 +12,7 @@ namespace rScout2019._5.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Hello World!";
         }
     }
 }
