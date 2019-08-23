@@ -1,3 +1,3 @@
 // JavaScript source code
-var msg = "hello world"
+var msg = "hi world"
     console.log(msg);
